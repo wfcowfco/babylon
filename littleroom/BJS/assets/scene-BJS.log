@@ -1,0 +1,103 @@
+Exporter version: 5.6.3, Blender version: 2.79 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		export scope        :  ALL
+		inline textures     :  false
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  V:\Documents\3d\Tutos-personnels\BJS\lightmap-workflow2\BJS\assets\
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  _collisions
+		processing begun of Standard material:  _collisions
+		num positions      :  228
+		num normals        :  228
+		num uvs            :  456
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  342
+	processing begun of mesh:  holdout.noLM.000
+		processing begun of Standard material:  holdout.000
+		num positions      :  36
+		num normals        :  36
+		num uvs            :  72
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  54
+	processing begun of mesh:  furnitures.noLM.000
+		processing begun of Standard material:  lampMetal01.000
+		processing begun of Standard material:  lampPlastic01.000
+		processing begun of Standard material:  lampFabric01.000
+			Diffuse texture found "fabric02_col.jpg"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+			Emissive texture found "lampFabric01_emit.jpg"
+				Image texture found, type:  emissiveTexture, mapped using: "UV2"
+		processing begun of Standard material:  lampBulb01.000
+		processing begun of multimaterial:  scene_BJS.Multimaterial#0
+		num positions      :  2081
+		num normals        :  2081
+		num uvs            :  4162
+		num uvs2           :  4162
+		num colors         :  0
+		num indices        :  5286
+	processing begun of mesh:  furnitures.000
+		processing begun of Standard material:  bedsideMarble01.000
+			Diffuse texture found "marble_solid_07-color.jpg"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+			Reflection texture found "spheremap01.png"
+				Image texture found, type:  reflectionTexture, mapped using: "UVMap"
+		processing begun of Standard material:  bedsideWood01.000
+			Bump texture found "noise_nm.png"
+				Image texture found, type:  bumpTexture, mapped using: "UVMap"
+		processing begun of Standard material:  bedsideMetal01.000
+		processing begun of Standard material:  lampCeramic01.000
+			Reflection texture found "spheremap01.png"
+				Image texture found, type:  reflectionTexture, mapped using: "UVMap"
+		processing begun of Standard material:  books01.000
+			Diffuse texture found "books01.jpg"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+			Bump texture found "books01_NM.png"
+				Image texture found, type:  bumpTexture, mapped using: "UVMap"
+			Specular texture found "books01_SP.jpg"
+				Image texture found, type:  specularTexture, mapped using: "UVMap"
+		processing begun of Standard material:  paintingFrame01.000
+		processing begun of Standard material:  painting01.000
+			Diffuse texture found "painting01"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+				WARNING: Opacity non-std way to indicate opacity, use material alpha to also use Opacity texture
+			Reflection texture found "spheremap01.png"
+				Image texture found, type:  reflectionTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  scene_BJS.Multimaterial#1
+		num positions      :  3150
+		num normals        :  3150
+		num uvs            :  6300
+		num uvs2           :  6300
+		num colors         :  0
+		num indices        :  10716
+	processing begun of mesh:  wallz.000
+		processing begun of Standard material:  wall01.000
+		processing begun of Standard material:  floor01.000
+			Diffuse texture found "WoodFine0055.jpg"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+			Bump texture found "WoodFine0055_NM.png"
+				Image texture found, type:  bumpTexture, mapped using: "UVMap"
+			Reflection texture found "spheremap01.png"
+				Image texture found, type:  reflectionTexture, mapped using: "UVMap"
+		processing begun of Standard material:  wallpaper01.000
+			Diffuse texture found "fabric_patterned_2-color.jpg"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  scene_BJS.Multimaterial#2
+		num positions      :  37
+		num normals        :  37
+		num uvs            :  74
+		num uvs2           :  74
+		num colors         :  0
+		num indices        :  54
+	processing begun of light (POINT):  light-dynamic.000
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.6553 secs
